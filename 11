@@ -166,7 +166,7 @@ do
 
 {
 
-cout<<"==========PRIM'S ALGORITHM================="<<endl;
+cout<<"PRIM'S ALGORITHM"<<endl;
 
 cout<<"\n1.INPUT\n \n2.DISPLAY\n \n3.MINIMUM\n"<<endl;
 
@@ -178,19 +178,19 @@ switch(ch)
 
 {
 
-case 1: cout<<"*******INPUT YOUR VALUES*******"<<endl;
+case 1: cout<<"INPUT YOUR VALUES"<<endl;
 
 t.input();
 
 break;
 
-case 2: cout<<"*******DISPLAY THE CONTENTS********"<<endl;
+case 2: cout<<"DISPLAY THE CONTENTS"<<endl;
 
 t.display();
 
 break;
 
-case 3: cout<<"*********MINIMUM************"<<endl;
+case 3: cout<<"MINIMUM"<<endl;
 
 t.minimum();
 
